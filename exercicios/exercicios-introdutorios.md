@@ -6,17 +6,17 @@
 
 4. Júlia é mais alta que Ana. Ana é mais baixa que Bruno. Qual dos três é o mais alto?
 
-5. Em uma sala, há 2 pais e 2 filhos. Qual o número mínimo de pessoas na sala?
+5. Em uma sala, há 2 pais e 2 filhos. Qual o número mínimo de pessoas na sala? 2
 
 6. Se o código para "GATO" é 4130, qual é o código para "PATO"?
 
-7. Você tem 50 moedas de 1 real e 50 moedas de 50 centavos. No total, quanto você tem?
+7. Você tem 50 moedas de 1 real e 50 moedas de 50 centavos. No total, quanto você tem? 75
 
-8. Uma torneira pinga 1 gota a cada segundo. Quantas gotas ela pingará em 1 minuto?
+8. Uma torneira pinga 1 gota a cada segundo. Quantas gotas ela pingará em 1 minuto? 60
 
 9. Se todos os corvos são pretos e minha caneta é um corvo, então minha caneta é preta. Essa afirmação é logicamente válida?
 
-10. Se 3 coelhos comem 3 cenouras em 3 minutos, quanto tempo 10 coelhos levarão para comer 10 cenouras?
+10. Se 3 coelhos comem 3 cenouras em 3 minutos, quanto tempo 10 coelhos levarão para comer 10 cenouras? 3
 
 11. Se "SOL" está para "LUZ" como "GELO" está para...
 
@@ -26,9 +26,9 @@
 
 14. Um relógio digital mostra 08:08. Qual será a próxima vez que ele mostrará a mesma configuração de dígitos?
 
-15. Se o dobro de um número é 20, qual é a metade do triplo desse número?
+15. Se o dobro de um número é 20, qual é a metade do triplo desse número? 15
 
-16. Em um grupo de 100 pessoas, 85 falam inglês e 75 falam espanhol. Quantas pessoas, no mínimo, falam as duas línguas?
+16. Em um grupo de 100 pessoas, 85 falam inglês e 75 falam espanhol. Quantas pessoas, no mínimo, falam as duas línguas? 60
 
 17. Se "A" está para 1, "B" para 2, "C" para 3, etc., qual é a soma de "C" + "O" + "D" + "I" + "G" + "O"?
 
